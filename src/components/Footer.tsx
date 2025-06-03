@@ -50,10 +50,10 @@ export const Footer: React.FC = () => {
           {/* Contact */}
           <div className="col-span-1">
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
-            <p className="text-green-100 mb-2">1234 Soil Avenue</p>
-            <p className="text-green-100 mb-2">Earth City, EC 98765</p>
-            <p className="text-green-100 mb-2">info@soilspectra.com</p>
-            <p className="text-green-100">+1 (555) 123-4567</p>
+            <p className="text-green-100 mb-2">Bethel House, Ambedkar Main Road, Akash Nagar</p>
+            <p className="text-green-100 mb-2">Gerugambakkam, Chennai-600122</p>
+            <p className="text-green-100 mb-2">cipherhelpline@gmail.com</p>
+            <p className="text-green-100">+91 7358438588</p>
           </div>
         </div>
 
