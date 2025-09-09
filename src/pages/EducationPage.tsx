@@ -224,15 +224,11 @@ const SoilCompositionContent: React.FC = () => (
       <li><strong>For agriculture:</strong> Loam soil (balanced mixture) is generally ideal as it provides good drainage while retaining nutrients and moisture.</li>
     </ul>
     
-    <h3>Barring Ratio and Void Ratio</h3>
+    <h3>Void Ratio</h3>
     <p>
-      These are critical metrics for determining soil stability for construction:
+      Void Ratio represents the volume of voids (air and water space) relative to solids in soil.
+      Lower values generally indicate better stability for construction.
     </p>
-    
-    <ul>
-      <li><strong>Barring Ratio:</strong> Measures the soil's ability to bear weight. Higher values indicate better load-bearing capacity.</li>
-      <li><strong>Void Ratio:</strong> Represents the volume of voids (air and water space) relative to solids in soil. Lower values generally indicate better stability for construction.</li>
-    </ul>
   </div>
 );
 
@@ -292,7 +288,6 @@ const BuildingPurposesContent: React.FC = () => (
       <li><strong>Composition:</strong> Higher sand content (40-80%) with some silt and minimal clay</li>
       <li><strong>pH:</strong> Neutral to slightly alkaline (6-8) to prevent concrete and metal corrosion</li>
       <li><strong>Moisture:</strong> Low to moderate (0-30%) to prevent settlement issues</li>
-      <li><strong>Barring Ratio:</strong> Higher values (1.5+) indicate better load-bearing capacity</li>
       <li><strong>Void Ratio:</strong> Lower values (0.5 or less) for better stability</li>
     </ul>
     
@@ -384,7 +379,7 @@ const AgriculturalPurposesContent: React.FC = () => (
         </ul>
       </div>
       
-      <div className="bg-green-50 p-4 rounded-lg">
+            <div className="bg-green-50 p-4 rounded-lg">
         <h4 className="font-medium text-green-800 mb-2">Secondary Nutrients</h4>
         <ul className="text-sm list-disc pl-5">
           <li>Calcium (Ca)</li>
@@ -439,3 +434,4 @@ const AgriculturalPurposesContent: React.FC = () => (
     </div>
   </div>
 );
+
