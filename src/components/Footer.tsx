@@ -20,9 +20,9 @@ export const Footer: React.FC = () => {
             </p>
             <div className="flex space-x-4">
               <SocialIcon icon={<Twitter size={20} />} href="https://x.com/Cipher_Helpline?t=IMd4ImeMXveJA_wnscxi5Q&s=08 " />
-              <SocialIcon icon={<Github size={20} />} href="https://github.com/nibrit" />
-              <SocialIcon icon={<Linkedin size={20} />} href="https://www.linkedin.com/in/nibrit-berlin-b-2bb39b25a/" />
-              <SocialIcon icon={<Mail size={20} />} href="nibritberlin3@gmail.com" />
+              <SocialIcon icon={<Github size={20} />} href="https://github.com/JohnImmanuel305" />
+              <SocialIcon icon={<Linkedin size={20} />} href="https://www.linkedin.com/in/john-immanuel-a159402b4/" />
+              <SocialIcon icon={<Mail size={20} />} href="soilspectrahelp@gmail.com" />
             </div>
           </div>
 
