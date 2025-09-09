@@ -50,15 +50,15 @@ export const Footer: React.FC = () => {
           {/* Contact */}
           <div className="col-span-1">
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
-            <p className="text-green-100 mb-2">Bethel House, Ambedkar Main Road, Akash Nagar</p>
-            <p className="text-green-100 mb-2">Gerugambakkam, Chennai-600122</p>
+            <p className="text-green-100 mb-2">Bethel House, Manikandan Illam, Arumugam street</p>
+            <p className="text-green-100 mb-2">Palavanthangal, Chennai-600114</p>
             <p className="text-green-100 mb-2">cipherhelpline@gmail.com</p>
-            <p className="text-green-100">+91 7358438588</p>
+            <p className="text-green-100">+91 9344835162 / soilspectrahelp@gmail.com</p>
           </div>
         </div>
 
         <div className="border-t border-green-700 mt-8 pt-8 text-center text-green-300">
-          <p>© {currentYear} Soil Spectra. A part of  C I P H E R  . All rights reserved.</p>
+          <p>© {currentYear} Soil Spectra . All rights reserved.</p>
         </div>
       </div>
     </footer>
