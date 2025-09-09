@@ -52,8 +52,8 @@ export const Footer: React.FC = () => {
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <p className="text-green-100 mb-2">Bethel House, Manikandan Illam, Arumugam street</p>
             <p className="text-green-100 mb-2">Palavanthangal, Chennai-600114</p>
-            <p className="text-green-100 mb-2">cipherhelpline@gmail.com</p>
-            <p className="text-green-100">+91 9344835162 / soilspectrahelp@gmail.com</p>
+            <p className="text-green-100 mb-2">soilspectrahelp@gmail.com</p>
+            <p className="text-green-100">+91 9344835162</p>
           </div>
         </div>
 
